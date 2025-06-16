@@ -1,12 +1,362 @@
 {
   "Version": 1,
-  "Hash": "rFaFc1OCoBX8G896ZJAhlVmRkuX54QjWfUMIaS1W+lQ=",
+  "Hash": "QgceDAOPAPClNJR5M8PvqmHz8vZHXheou+41gfvaawY=",
   "Source": "JQueryWebAPI",
   "BasePath": "_content/JQueryWebAPI",
   "Mode": "Default",
   "ManifestType": "Build",
   "ReferencedProjectsConfiguration": [],
-  "DiscoveryPatterns": [],
-  "Assets": [],
-  "Endpoints": []
+  "DiscoveryPatterns": [
+    {
+      "Name": "JQueryWebAPI\\wwwroot",
+      "Source": "JQueryWebAPI",
+      "ContentRoot": "O:\\.NET projects\\ASP.Net-Web-API-JQuery\\JQueryWebAPI\\wwwroot\\",
+      "BasePath": "_content/JQueryWebAPI",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "O:\\.NET projects\\ASP.Net-Web-API-JQuery\\JQueryWebAPI\\obj\\Debug\\net9.0\\compressed\\5xz2dmi5a9-fc02oyw0cd.gz",
+      "SourceId": "JQueryWebAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "O:\\.NET projects\\ASP.Net-Web-API-JQuery\\JQueryWebAPI\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/JQueryWebAPI",
+      "RelativePath": "index#[.{fingerprint=fc02oyw0cd}]?.html.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "O:\\.NET projects\\ASP.Net-Web-API-JQuery\\JQueryWebAPI\\wwwroot\\index.html",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "15n30v85ie",
+      "Integrity": "5TMG7XvLGiIifEng79qrZtSJCASXSNIdOrV4b4ZzNn0=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "O:\\.NET projects\\ASP.Net-Web-API-JQuery\\JQueryWebAPI\\wwwroot\\index.html"
+    },
+    {
+      "Identity": "O:\\.NET projects\\ASP.Net-Web-API-JQuery\\JQueryWebAPI\\wwwroot\\index.html",
+      "SourceId": "JQueryWebAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "O:\\.NET projects\\ASP.Net-Web-API-JQuery\\JQueryWebAPI\\wwwroot\\",
+      "BasePath": "_content/JQueryWebAPI",
+      "RelativePath": "index#[.{fingerprint}]?.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "fc02oyw0cd",
+      "Integrity": "P06U6QrvqYB1HjljWjmUh/PnldoWiRg4oGQtsmcWzt4=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\index.html"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "index.fc02oyw0cd.html",
+      "AssetFile": "O:\\.NET projects\\ASP.Net-Web-API-JQuery\\JQueryWebAPI\\obj\\Debug\\net9.0\\compressed\\5xz2dmi5a9-fc02oyw0cd.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.001315789474"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "759"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"5TMG7XvLGiIifEng79qrZtSJCASXSNIdOrV4b4ZzNn0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 16 Jun 2025 11:22:28 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"P06U6QrvqYB1HjljWjmUh/PnldoWiRg4oGQtsmcWzt4=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "fc02oyw0cd"
+        },
+        {
+          "Name": "label",
+          "Value": "index.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-P06U6QrvqYB1HjljWjmUh/PnldoWiRg4oGQtsmcWzt4="
+        }
+      ]
+    },
+    {
+      "Route": "index.fc02oyw0cd.html",
+      "AssetFile": "O:\\.NET projects\\ASP.Net-Web-API-JQuery\\JQueryWebAPI\\wwwroot\\index.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1622"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"P06U6QrvqYB1HjljWjmUh/PnldoWiRg4oGQtsmcWzt4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 16 Jun 2025 11:22:28 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "fc02oyw0cd"
+        },
+        {
+          "Name": "label",
+          "Value": "index.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-P06U6QrvqYB1HjljWjmUh/PnldoWiRg4oGQtsmcWzt4="
+        }
+      ]
+    },
+    {
+      "Route": "index.fc02oyw0cd.html.gz",
+      "AssetFile": "O:\\.NET projects\\ASP.Net-Web-API-JQuery\\JQueryWebAPI\\obj\\Debug\\net9.0\\compressed\\5xz2dmi5a9-fc02oyw0cd.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "759"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"5TMG7XvLGiIifEng79qrZtSJCASXSNIdOrV4b4ZzNn0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 16 Jun 2025 11:22:28 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "fc02oyw0cd"
+        },
+        {
+          "Name": "label",
+          "Value": "index.html.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-5TMG7XvLGiIifEng79qrZtSJCASXSNIdOrV4b4ZzNn0="
+        }
+      ]
+    },
+    {
+      "Route": "index.html",
+      "AssetFile": "O:\\.NET projects\\ASP.Net-Web-API-JQuery\\JQueryWebAPI\\obj\\Debug\\net9.0\\compressed\\5xz2dmi5a9-fc02oyw0cd.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.001315789474"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "759"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"5TMG7XvLGiIifEng79qrZtSJCASXSNIdOrV4b4ZzNn0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 16 Jun 2025 11:22:28 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"P06U6QrvqYB1HjljWjmUh/PnldoWiRg4oGQtsmcWzt4=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-P06U6QrvqYB1HjljWjmUh/PnldoWiRg4oGQtsmcWzt4="
+        }
+      ]
+    },
+    {
+      "Route": "index.html",
+      "AssetFile": "O:\\.NET projects\\ASP.Net-Web-API-JQuery\\JQueryWebAPI\\wwwroot\\index.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1622"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"P06U6QrvqYB1HjljWjmUh/PnldoWiRg4oGQtsmcWzt4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 16 Jun 2025 11:22:28 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-P06U6QrvqYB1HjljWjmUh/PnldoWiRg4oGQtsmcWzt4="
+        }
+      ]
+    },
+    {
+      "Route": "index.html.gz",
+      "AssetFile": "O:\\.NET projects\\ASP.Net-Web-API-JQuery\\JQueryWebAPI\\obj\\Debug\\net9.0\\compressed\\5xz2dmi5a9-fc02oyw0cd.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "759"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"5TMG7XvLGiIifEng79qrZtSJCASXSNIdOrV4b4ZzNn0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 16 Jun 2025 11:22:28 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-5TMG7XvLGiIifEng79qrZtSJCASXSNIdOrV4b4ZzNn0="
+        }
+      ]
+    }
+  ]
 }

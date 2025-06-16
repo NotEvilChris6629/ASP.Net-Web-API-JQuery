@@ -32,3 +32,5 @@ O:\.NET projects\ASP.Net-Web-API-JQuery\JQueryWebAPI\obj\Debug\net9.0\refint\JQu
 O:\.NET projects\ASP.Net-Web-API-JQuery\JQueryWebAPI\obj\Debug\net9.0\JQueryWebAPI.pdb
 O:\.NET projects\ASP.Net-Web-API-JQuery\JQueryWebAPI\obj\Debug\net9.0\JQueryWebAPI.genruntimeconfig.cache
 O:\.NET projects\ASP.Net-Web-API-JQuery\JQueryWebAPI\obj\Debug\net9.0\ref\JQueryWebAPI.dll
+O:\.NET projects\ASP.Net-Web-API-JQuery\JQueryWebAPI\bin\Debug\net9.0\JQueryWebAPI.staticwebassets.runtime.json
+O:\.NET projects\ASP.Net-Web-API-JQuery\JQueryWebAPI\obj\Debug\net9.0\compressed\5xz2dmi5a9-fc02oyw0cd.gz
