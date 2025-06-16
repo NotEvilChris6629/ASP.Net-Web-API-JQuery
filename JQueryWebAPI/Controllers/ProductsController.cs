@@ -22,15 +22,17 @@ namespace JQueryWebAPI.Controllers
         /// Returns all the products in the array above.
         /// </summary>
         /// <returns></returns>
+        [HttpGet]
         public ActionResult<IEnumerable<Product>> Get()
         {
             return products;
         }
-        
+
         /// <summary>
         /// Searches the products using an ID.
         /// </summary>
         /// <returns></returns>
+        [HttpGet("{id}")]
         public ActionResult<Product> Get(int id)
         {
             //This searches through the products and returns the first match that satisfies a condition. Returns null if no match is found. This is a Lambda Expression

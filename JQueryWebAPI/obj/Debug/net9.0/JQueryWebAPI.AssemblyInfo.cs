@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("JQueryWebAPI")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+852d22fadcfa64d589617acd3b5d912f5cef4252")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e80beaae88aa56a04e2d3a957cc759900c9a8b23")]
 [assembly: System.Reflection.AssemblyProductAttribute("JQueryWebAPI")]
 [assembly: System.Reflection.AssemblyTitleAttribute("JQueryWebAPI")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
